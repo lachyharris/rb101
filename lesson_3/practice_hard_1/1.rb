@@ -1,1 +1,0 @@
-# it would result in greeting being nil

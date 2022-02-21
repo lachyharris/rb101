@@ -1,0 +1,1 @@
+# Adding a check to see if dot_seperated_words.size == 4, returning false if it doesn't.
